@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chetanrewebso
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning php and wordpress
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working as a Wordpress Developer
+- 💞️ I am Plugin and theme customization enthusiastic
 - 📫 How to reach me ...
 
 <!---
